@@ -19,4 +19,4 @@ $ git clone https://github.com/BlackB07/SuperSpeed
 
 $ cd SuperSpeed
 
-$ python2 
+$ python2 beta5g.py
